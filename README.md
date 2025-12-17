@@ -23,6 +23,8 @@
 
 ![اضافه وزن](overweight.png)
 
+![وضعیت چاق](fat.png)
+
 ![خطا - فیلد خالی](error.png)
 
 ![خطا - ورودی غیرعددی](error-invalid.png)
